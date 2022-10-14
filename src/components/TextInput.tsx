@@ -1,6 +1,5 @@
 
 import { ReactNode } from 'react';
-import { clsx } from 'clsx'
 import { InputHTMLAttributes } from 'react';
 import { Slot } from '@radix-ui/react-slot';
 
